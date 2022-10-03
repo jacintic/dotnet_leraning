@@ -1,0 +1,36 @@
+# .NET  
+  
+## Alan Sastre - Tutor - alan@alansastre.co  
+## David Magallón - C# - profe primer modulo  
+## ? -  
+  
+  
+### Introducción  
+  
+  
+  
+  
+### Herramientas, overview  
+  
+Visual Studio - Editor  
+
+  
+  
+### Lenguaje, C#  
+  
+  
+  
+  
+###  
+  
+  
+  
+###
+  
+  
+  
+###
+  
+  
+  
+###
