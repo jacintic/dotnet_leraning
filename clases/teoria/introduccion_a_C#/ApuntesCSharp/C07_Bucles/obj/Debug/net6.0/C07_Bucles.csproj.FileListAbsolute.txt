@@ -1,0 +1,15 @@
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C07_Bucles\bin\Debug\net6.0\C07_Bucles.exe
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C07_Bucles\bin\Debug\net6.0\C07_Bucles.deps.json
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C07_Bucles\bin\Debug\net6.0\C07_Bucles.runtimeconfig.json
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C07_Bucles\bin\Debug\net6.0\C07_Bucles.dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C07_Bucles\bin\Debug\net6.0\C07_Bucles.pdb
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C07_Bucles\obj\Debug\net6.0\C07_Bucles.csproj.AssemblyReference.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C07_Bucles\obj\Debug\net6.0\C07_Bucles.GeneratedMSBuildEditorConfig.editorconfig
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C07_Bucles\obj\Debug\net6.0\C07_Bucles.AssemblyInfoInputs.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C07_Bucles\obj\Debug\net6.0\C07_Bucles.AssemblyInfo.cs
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C07_Bucles\obj\Debug\net6.0\C07_Bucles.csproj.CoreCompileInputs.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C07_Bucles\obj\Debug\net6.0\C07_Bucles.dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C07_Bucles\obj\Debug\net6.0\refint\C07_Bucles.dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C07_Bucles\obj\Debug\net6.0\C07_Bucles.pdb
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C07_Bucles\obj\Debug\net6.0\C07_Bucles.genruntimeconfig.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C07_Bucles\obj\Debug\net6.0\ref\C07_Bucles.dll

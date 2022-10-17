@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "C08b_Menu/1.0.0": {
+        "runtime": {
+          "C08b_Menu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C08b_Menu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,49 @@
+# .NET  
+  
+  
+  
+### Cybe seguridad - Lorenzo Aranda  
+  
+Links:  
+. bugcrowd
+. hacksplaining
+  
+  
+### Wetransfer  
+  
+file -> link  
+  
+  
+## Floats  
+  
+```
+float notaExamen = 7.25f;
+``` 
+Float tiene una precisión de 7 digitos  
+  
+  
+## Double
+  
+Tiene una precisión de 16  
+  
+  
+## English  
+  
+"The human step forward into early technology might have been because they started cooking their food."
+"According to my phylosophy teacher it was due to humans begining to cook food with fire."
+"I might have heard about this before but I'm not sure that's how they went about it."
+"I'm thrilled to get to know about this new technology."
+
+"it's the first time I've ever heard of this"
+
+"Would you like descriving how it went?"
+"You might understand the issue better, because you're an english teacher"
+
+"he shouldn't have done this"
+"I don't mind doing this in the meantime"
+
+
+"how could I have known about it?"
+"would you let me sign the papers now?"
+"didn't see you there"
+"please consider buying this property"

@@ -1,0 +1,15 @@
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C03_AmbitoVariables\bin\Debug\net6.0\C03_AmbitoVariables.exe
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C03_AmbitoVariables\bin\Debug\net6.0\C03_AmbitoVariables.deps.json
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C03_AmbitoVariables\bin\Debug\net6.0\C03_AmbitoVariables.runtimeconfig.json
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C03_AmbitoVariables\bin\Debug\net6.0\C03_AmbitoVariables.dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C03_AmbitoVariables\bin\Debug\net6.0\C03_AmbitoVariables.pdb
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C03_AmbitoVariables\obj\Debug\net6.0\C03_AmbitoVariables.csproj.AssemblyReference.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C03_AmbitoVariables\obj\Debug\net6.0\C03_AmbitoVariables.GeneratedMSBuildEditorConfig.editorconfig
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C03_AmbitoVariables\obj\Debug\net6.0\C03_AmbitoVariables.AssemblyInfoInputs.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C03_AmbitoVariables\obj\Debug\net6.0\C03_AmbitoVariables.AssemblyInfo.cs
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C03_AmbitoVariables\obj\Debug\net6.0\C03_AmbitoVariables.csproj.CoreCompileInputs.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C03_AmbitoVariables\obj\Debug\net6.0\C03_AmbitoVariables.dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C03_AmbitoVariables\obj\Debug\net6.0\refint\C03_AmbitoVariables.dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C03_AmbitoVariables\obj\Debug\net6.0\C03_AmbitoVariables.pdb
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C03_AmbitoVariables\obj\Debug\net6.0\C03_AmbitoVariables.genruntimeconfig.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C03_AmbitoVariables\obj\Debug\net6.0\ref\C03_AmbitoVariables.dll

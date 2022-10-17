@@ -1,0 +1,15 @@
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C10a_OOP(constructors)\bin\Debug\net6.0\C10a_OOP(constructors).exe
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C10a_OOP(constructors)\bin\Debug\net6.0\C10a_OOP(constructors).deps.json
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C10a_OOP(constructors)\bin\Debug\net6.0\C10a_OOP(constructors).runtimeconfig.json
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C10a_OOP(constructors)\bin\Debug\net6.0\C10a_OOP(constructors).dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C10a_OOP(constructors)\bin\Debug\net6.0\C10a_OOP(constructors).pdb
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C10a_OOP(constructors)\obj\Debug\net6.0\C10a_OOP(constructors).csproj.AssemblyReference.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C10a_OOP(constructors)\obj\Debug\net6.0\C10a_OOP(constructors).GeneratedMSBuildEditorConfig.editorconfig
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C10a_OOP(constructors)\obj\Debug\net6.0\C10a_OOP(constructors).AssemblyInfoInputs.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C10a_OOP(constructors)\obj\Debug\net6.0\C10a_OOP(constructors).AssemblyInfo.cs
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C10a_OOP(constructors)\obj\Debug\net6.0\C10a_OOP(constructors).csproj.CoreCompileInputs.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C10a_OOP(constructors)\obj\Debug\net6.0\C10a_OOP(constructors).dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C10a_OOP(constructors)\obj\Debug\net6.0\refint\C10a_OOP(constructors).dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C10a_OOP(constructors)\obj\Debug\net6.0\C10a_OOP(constructors).pdb
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C10a_OOP(constructors)\obj\Debug\net6.0\C10a_OOP(constructors).genruntimeconfig.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C10a_OOP(constructors)\obj\Debug\net6.0\ref\C10a_OOP(constructors).dll

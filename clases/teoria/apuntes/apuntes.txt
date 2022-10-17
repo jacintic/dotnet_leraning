@@ -1,0 +1,159 @@
+# .NET  
+  
+## Alan Sastre - Tutor - alan@alansastre.co  
+## David Magallón - C# - profe primer modulo  
+## ? -  
+  
+  
+### Introducción  
+  
+  
+  
+  
+### Herramientas, overview  
+  
+Visual Studio - Editor  
+
+  
+### Visual Studio  
+  
+. Estructura de archivos => Solución
+. . Proyecto01
+.  .  . Clase1.cs
+  
+  
+### Otros editores  
+  
+. Visual Studio Code
+. Sublime text
+. Notepad ++
+. Vim
+. Emacs
+. ! onlinegdb csharp
+. . `https://www.onlinegdb.com/online_csharp_compiler`
+[GDB C#](https://www.onlinegdb.com/online_csharp_compiler)
+. donetfiddle
+[dotnet fiddle](dotnetfiddle.net)
+
+
+### Lenguaje, C#  
+  
+. Compilador .NET6  
+
+    
+Alias:  
+  
+```
+using System;
+using Msg = System.Console;
+					
+public class Program
+{
+	public static void Main()
+	{
+		Console.WriteLine("Hello World");
+		Msg.WriteLine("Hola desde alias!");
+	}
+}
+```
+  
+No se pueden incluir los metodos de Conosole dentro del alias.  
+Por ejemplo:  
+```
+using Msg = System.Console.WriteLine; // error
+```
+  
+  
+#### Que pasa si quitamos el `using System`?  
+  
+Metodos como `Console` no funcionarian, ¡PERO! si hacemos:
+  
+```
+public class Program
+{
+	public static void Main()
+	{
+		System.Console.WriteLine("Hola sin using System!");
+	}
+}
+System.Console.WriteLine
+```
+  
+  
+#### Tipos de comentarios en codigo  
+  
+```
+// comentario mono-linea
+/*
+comentario
+multi
+linea
+*/
+```
+  
+  
+#### Funciones - metodos  
+  
+Es lo mismo!  
+  
+  
+##### Creando una función  
+  
+```
+using System;
+using Msg = System.Console;
+					
+public class Program
+{
+	public static void Main()
+	{
+		Console.WriteLine("Hello World");
+		Msg.WriteLine("Hola desde alias!");
+		FuncionPideDatos(); // llamada a otra función
+	}
+
+	// Esta es nuestra función
+	public static void FuncionPideDatos()
+	{
+		Msg.WriteLine("hola desde nuestra función!");
+	}
+}
+```
+  
+  
+#### Creando Class  
+  
+Crear elemento, crear Class => elemento.cs 
+
+##### Atención, referente al public class!  
+  
+```
+using System;
+using Msg = System.Console;
+
+public class Plantilla
+{
+``` 
+El archivo/Class se ha de llamar como el public class
+  
+  
+##### Atención 2, referente al main
+  
+No puede haver 2 Class con Main 
+  
+
+  
+##### Atención 3, referente a proyectos a ejecutar
+  
+Al lado de ejectuar, hay un desplegable.
+  
+###
+  
+  
+  
+###
+  
+  
+  
+###
+

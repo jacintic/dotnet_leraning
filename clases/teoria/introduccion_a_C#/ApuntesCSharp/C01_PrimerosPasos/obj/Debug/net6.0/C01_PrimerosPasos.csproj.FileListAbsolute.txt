@@ -1,0 +1,15 @@
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion\ApuntesCSharp\C01_PrimerosPasos\bin\Debug\net6.0\C01_PrimerosPasos.exe
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion\ApuntesCSharp\C01_PrimerosPasos\bin\Debug\net6.0\C01_PrimerosPasos.deps.json
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion\ApuntesCSharp\C01_PrimerosPasos\bin\Debug\net6.0\C01_PrimerosPasos.runtimeconfig.json
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion\ApuntesCSharp\C01_PrimerosPasos\bin\Debug\net6.0\C01_PrimerosPasos.dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion\ApuntesCSharp\C01_PrimerosPasos\bin\Debug\net6.0\C01_PrimerosPasos.pdb
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion\ApuntesCSharp\C01_PrimerosPasos\obj\Debug\net6.0\C01_PrimerosPasos.csproj.AssemblyReference.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion\ApuntesCSharp\C01_PrimerosPasos\obj\Debug\net6.0\C01_PrimerosPasos.GeneratedMSBuildEditorConfig.editorconfig
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion\ApuntesCSharp\C01_PrimerosPasos\obj\Debug\net6.0\C01_PrimerosPasos.AssemblyInfoInputs.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion\ApuntesCSharp\C01_PrimerosPasos\obj\Debug\net6.0\C01_PrimerosPasos.AssemblyInfo.cs
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion\ApuntesCSharp\C01_PrimerosPasos\obj\Debug\net6.0\C01_PrimerosPasos.csproj.CoreCompileInputs.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion\ApuntesCSharp\C01_PrimerosPasos\obj\Debug\net6.0\C01_PrimerosPasos.dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion\ApuntesCSharp\C01_PrimerosPasos\obj\Debug\net6.0\refint\C01_PrimerosPasos.dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion\ApuntesCSharp\C01_PrimerosPasos\obj\Debug\net6.0\C01_PrimerosPasos.pdb
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion\ApuntesCSharp\C01_PrimerosPasos\obj\Debug\net6.0\C01_PrimerosPasos.genruntimeconfig.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion\ApuntesCSharp\C01_PrimerosPasos\obj\Debug\net6.0\ref\C01_PrimerosPasos.dll

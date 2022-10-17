@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "C09b_Exceptions(throw)/1.0.0": {
+        "runtime": {
+          "C09b_Exceptions(throw).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C09b_Exceptions(throw)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

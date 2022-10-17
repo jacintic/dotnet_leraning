@@ -1,0 +1,15 @@
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C09b_Exceptions(throw)\bin\Debug\net6.0\C09b_Exceptions(throw).exe
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C09b_Exceptions(throw)\bin\Debug\net6.0\C09b_Exceptions(throw).deps.json
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C09b_Exceptions(throw)\bin\Debug\net6.0\C09b_Exceptions(throw).runtimeconfig.json
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C09b_Exceptions(throw)\bin\Debug\net6.0\C09b_Exceptions(throw).dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C09b_Exceptions(throw)\bin\Debug\net6.0\C09b_Exceptions(throw).pdb
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C09b_Exceptions(throw)\obj\Debug\net6.0\C09b_Exceptions(throw).csproj.AssemblyReference.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C09b_Exceptions(throw)\obj\Debug\net6.0\C09b_Exceptions(throw).GeneratedMSBuildEditorConfig.editorconfig
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C09b_Exceptions(throw)\obj\Debug\net6.0\C09b_Exceptions(throw).AssemblyInfoInputs.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C09b_Exceptions(throw)\obj\Debug\net6.0\C09b_Exceptions(throw).AssemblyInfo.cs
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C09b_Exceptions(throw)\obj\Debug\net6.0\C09b_Exceptions(throw).csproj.CoreCompileInputs.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C09b_Exceptions(throw)\obj\Debug\net6.0\C09b_Exceptions(throw).dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C09b_Exceptions(throw)\obj\Debug\net6.0\refint\C09b_Exceptions(throw).dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C09b_Exceptions(throw)\obj\Debug\net6.0\C09b_Exceptions(throw).pdb
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C09b_Exceptions(throw)\obj\Debug\net6.0\C09b_Exceptions(throw).genruntimeconfig.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C09b_Exceptions(throw)\obj\Debug\net6.0\ref\C09b_Exceptions(throw).dll

@@ -1,0 +1,48 @@
+# .NET  
+  
+  
+## Variable names  
+  
+booleans should be named in a way that would clearly explain their status relative to its value. Example:
+  
+```
+bool isLightOn = false;
+```
+  
+  
+## Breakpoints  
+  
+The leftmost bar of the code editor sets breakpoints.  
+F10 => baja linea por linea despues del break point.  
+Continuar => termina el codigo de una vez  
+  
+El breakpoint para antes de entrar en la linea marcada.  
+  
+Cuando hay un break point las variables anteriores muestran sus valores.  
+El cursor del compilador se puede mover hacia atras y alante, la line en ejecución se muestra por un a flecha.  
+  
+  
+## Ambitos  
+  
+Tambien se llaman contextos. Es el espacio en el cual las variables existen/estan definidas/reconocidas.  
+  
+Para puentear los valores locales se pueden declarar valores globales (dentro de class directamente).  
+Se puede declarar dentro de la class y despues de las funciones y aun y así las funciones tendran aceso a estas.  
+  
+  
+### Ambitos Class y void/funciones  
+  
+Para forzar una variable de Class a ser accesible desde main, se puede utilizar el modificador "static" en la declaración de variable de Class.  
+  
+```
+public class Ambito2
+{
+    static string Nombre = "Gonzalo";
+    public static void Main()
+    {
+        int edad = 30;
+        Msg.WriteLine("Hola " + Nombre + " tienes " + edad + " años");
+  
+
+  
+  

@@ -1,0 +1,91 @@
+# .NET  
+  
+  
+## Force int overflow on arithmetic operations.  
+  
+Project -> properties -> advanced
+> > comprovar el desbordamiento aritmetico
+  
+### Through using `checked`  
+  
+```
+checked
+        {
+            int number = int.MaxValue;
+            Msg.WriteLine(number);
+            Msg.WriteLine(number + 1);  // doesn't throw exception by default
+                                        // BUT throws exception if compilation options are checked for arithmetic overflow
+            Msg.WriteLine((number + 1) - 1);
+        }
+```
+  
+  
+## Avoiding exceptions  
+  
+Note: needs project settings compilation to be checked for arythmetic overflow
+```
+int number3 = int.MaxValue;
+number3 = unchecked(number3 + 1); // avoids arythmetic overflow exception
+Msg.WriteLine(number3);
+```
+  
+  
+## Checked & unchecked  
+  
+Note only works with int and Long type variables.  
+  
+  
+## Exceptions library  
+  
+https://learn.microsoft.com/es-es/dotnet/api/system.exception?view=net-6.0
+
+  
+## Throwing exceptions  
+  
+```
+throw new ArgumentOutOfRangeException();
+```
+  
+  
+## OOP  
+  
+Object car:
+. status 	= stopped, riding, parked, etc
+. properties 	= color, weight, size, speed, handling, etc
+. behavior	= start, accelerate, break, drift, turn, etc
+  
+  
+### OOP's advantages  
+  
+. modularization
+. reusable code
+. easy to debug
+.  encapsulation
+  
+Object car:
+. status 	= stopped, riding, parked, etc
+. properties 	= color, weight, size, speed, handling, etc
+. behavior	= start, accelerate, break, drift, turn, etc
+  
+### Slang:  
+. class, objectinstance of a class, modularization encapsulation
+  
+#### Class  
+  
+Modelo donde se redactan caracteristicas comunes de un objeto (Coche)
+. Plataforma electrica MEB para coches VW, seat o skoda
+  
+Objeto coche  
+  
+. Propiedades (atributos)
+ . color
+ . peso
+ . alto
+ . largo
+. Comportamientos
+ . arrancar
+ . frenar
+  
+
+
+

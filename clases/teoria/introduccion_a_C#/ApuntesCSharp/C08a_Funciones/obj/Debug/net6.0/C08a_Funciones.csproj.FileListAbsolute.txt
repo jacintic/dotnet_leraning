@@ -1,0 +1,15 @@
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C08a_Funciones\bin\Debug\net6.0\C08a_Funciones.exe
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C08a_Funciones\bin\Debug\net6.0\C08a_Funciones.deps.json
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C08a_Funciones\bin\Debug\net6.0\C08a_Funciones.runtimeconfig.json
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C08a_Funciones\bin\Debug\net6.0\C08a_Funciones.dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C08a_Funciones\bin\Debug\net6.0\C08a_Funciones.pdb
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C08a_Funciones\obj\Debug\net6.0\C08a_Funciones.csproj.AssemblyReference.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C08a_Funciones\obj\Debug\net6.0\C08a_Funciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C08a_Funciones\obj\Debug\net6.0\C08a_Funciones.AssemblyInfoInputs.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C08a_Funciones\obj\Debug\net6.0\C08a_Funciones.AssemblyInfo.cs
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C08a_Funciones\obj\Debug\net6.0\C08a_Funciones.csproj.CoreCompileInputs.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C08a_Funciones\obj\Debug\net6.0\C08a_Funciones.dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C08a_Funciones\obj\Debug\net6.0\refint\C08a_Funciones.dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C08a_Funciones\obj\Debug\net6.0\C08a_Funciones.pdb
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C08a_Funciones\obj\Debug\net6.0\C08a_Funciones.genruntimeconfig.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C08a_Funciones\obj\Debug\net6.0\ref\C08a_Funciones.dll

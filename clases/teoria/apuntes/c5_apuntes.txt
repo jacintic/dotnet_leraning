@@ -1,0 +1,51 @@
+# .NET
+  
+  
+## Fechas  
+  
+https://learn.microsoft.com/es-es/dotnet/api/system.timespan?view=net-6.0
+  
+  
+## ReadKey y Clear  
+  
+```
+Console.ReadKey(); // pausa hasta pulsar cualquier tecla
+Console.Clear(); // limpia consola
+```
+  
+  
+## Arrays  
+  
+#### Declaration:  
+```
+int[] nameVar = new int[10] // 10 stands for length
+```
+  
+#### Asignación:
+```
+// asignar valoresint
+int[] array1 = new int[3] { 1, 2, 3 };
+int[] array2 = new int[] { 1, 2, 3 };
+int[] array3 = { 1, 2, 3 };
+```
+  
+#### Acceso a valores:  
+```
+// acceso a datos
+Msg.WriteLine(reales[1]);
+```
+  
+#### Modificación/Asignación:  
+```
+reales[1] = 7.5f;
+```
+  
+#### Acceso a length property:  
+```
+reales.Length
+```
+
+## Borrar duplicados de array  
+  
+(muy bueno - metoso de array)[https://code-maze.com/csharp-array-remove-duplicates/]  
+(con hashset - otro)[]

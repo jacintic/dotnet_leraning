@@ -1,0 +1,7 @@
+# .NET  
+  
+```
+// .. incrementos
+number++; // incrementa 1 => muestra variable Y LUEGO incrementa
+++number; // incrementa 1  => incrementa y muestra
+```

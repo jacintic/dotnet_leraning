@@ -1,0 +1,113 @@
+##### Atención, referente al public class!  
+  
+```
+using System;
+using Msg = System.Console;
+
+public class Plantilla
+{
+``` 
+El archivo/Class se ha de llamar como el public class
+  
+  
+##### Atención 2, referente al main
+  
+No puede haver 2 Class con Main 
+  
+
+  
+##### Atención 3, referente a proyectos a ejecutar
+  
+Al lado de ejectuar, hay un desplegable.  
+  
+  
+## ReadKey y Clear  
+  
+```
+Console.ReadKey(); // pausa hasta pulsar cualquier tecla
+Console.Clear(); // limpia consola
+```
+  
+  
+## float  
+  
+float variableName = 2.3f;  
+  
+  
+## Variables globales/de Class en C#  
+
+```
+using System;
+using Msg = System.Console;
+
+
+public class Program
+{
+
+
+    public static void Main()
+    {
+        int a = 10;
+        Msg.WriteLine(a);
+
+        {
+            int b = 20;
+            Msg.WriteLine(b);
+        }
+
+        //Msg.WriteLine(b); // b no existe en este contexto
+        Msg.WriteLine(a); // a si está dentro del contexto
+    } //Finde Funcion Main
+
+    void PrimeraFuncion()
+    {
+        numero1 = 1500;
+        Msg.WriteLine(numero1);
+        Msg.WriteLine(numero2);
+    }
+
+    void SegundaFuncion()
+    {
+        numero1 = 1800;
+        Msg.WriteLine(numero2);
+        Msg.WriteLine(numero1);
+    }
+
+
+
+
+    int numero1 = 1000;
+    int numero2 = 2000;
+}  // Fin de clase
+
+```
+  
+```
+public class Ambito2
+{
+    static string Nombre = "Gonzalo";
+    public static void Main()
+    {
+        int edad = 30;
+        Msg.WriteLine("Hola " + Nombre + " tienes " + edad + " años");
+    }
+}
+```
+  
+  
+## Incrementos  
+  
+```
+// .. incrementos
+        number++; // incrementa 1 => muestra variable Y LUEGO incrementa
+        ++number; // incrementa 1  => incrementa y muestra
+```
+  
+  
+## Casting  
+  
+```
+Convert.ToInt32(Msg.ReadLine());
+int.Parse("3"); // to Int32
+
+```  

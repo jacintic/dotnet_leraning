@@ -1,0 +1,15 @@
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C08b_Menu\bin\Debug\net6.0\C08b_Menu.exe
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C08b_Menu\bin\Debug\net6.0\C08b_Menu.deps.json
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C08b_Menu\bin\Debug\net6.0\C08b_Menu.runtimeconfig.json
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C08b_Menu\bin\Debug\net6.0\C08b_Menu.dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C08b_Menu\bin\Debug\net6.0\C08b_Menu.pdb
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C08b_Menu\obj\Debug\net6.0\C08b_Menu.csproj.AssemblyReference.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C08b_Menu\obj\Debug\net6.0\C08b_Menu.GeneratedMSBuildEditorConfig.editorconfig
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C08b_Menu\obj\Debug\net6.0\C08b_Menu.AssemblyInfoInputs.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C08b_Menu\obj\Debug\net6.0\C08b_Menu.AssemblyInfo.cs
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C08b_Menu\obj\Debug\net6.0\C08b_Menu.csproj.CoreCompileInputs.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C08b_Menu\obj\Debug\net6.0\C08b_Menu.dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C08b_Menu\obj\Debug\net6.0\refint\C08b_Menu.dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C08b_Menu\obj\Debug\net6.0\C08b_Menu.pdb
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C08b_Menu\obj\Debug\net6.0\C08b_Menu.genruntimeconfig.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C08b_Menu\obj\Debug\net6.0\ref\C08b_Menu.dll

@@ -1,0 +1,15 @@
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C06_Arrays\bin\Debug\net6.0\C06_Arrays.exe
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C06_Arrays\bin\Debug\net6.0\C06_Arrays.deps.json
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C06_Arrays\bin\Debug\net6.0\C06_Arrays.runtimeconfig.json
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C06_Arrays\bin\Debug\net6.0\C06_Arrays.dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C06_Arrays\bin\Debug\net6.0\C06_Arrays.pdb
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C06_Arrays\obj\Debug\net6.0\C06_Arrays.csproj.AssemblyReference.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C06_Arrays\obj\Debug\net6.0\C06_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C06_Arrays\obj\Debug\net6.0\C06_Arrays.AssemblyInfoInputs.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C06_Arrays\obj\Debug\net6.0\C06_Arrays.AssemblyInfo.cs
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C06_Arrays\obj\Debug\net6.0\C06_Arrays.csproj.CoreCompileInputs.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C06_Arrays\obj\Debug\net6.0\C06_Arrays.dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C06_Arrays\obj\Debug\net6.0\refint\C06_Arrays.dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C06_Arrays\obj\Debug\net6.0\C06_Arrays.pdb
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C06_Arrays\obj\Debug\net6.0\C06_Arrays.genruntimeconfig.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C06_Arrays\obj\Debug\net6.0\ref\C06_Arrays.dll

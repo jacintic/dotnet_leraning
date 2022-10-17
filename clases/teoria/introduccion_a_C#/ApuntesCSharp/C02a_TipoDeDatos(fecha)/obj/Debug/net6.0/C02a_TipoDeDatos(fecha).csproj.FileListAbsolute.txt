@@ -1,0 +1,15 @@
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C02a_TipoDeDatos(fecha)\bin\Debug\net6.0\C02a_TipoDeDatos(fecha).exe
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C02a_TipoDeDatos(fecha)\bin\Debug\net6.0\C02a_TipoDeDatos(fecha).deps.json
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C02a_TipoDeDatos(fecha)\bin\Debug\net6.0\C02a_TipoDeDatos(fecha).runtimeconfig.json
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C02a_TipoDeDatos(fecha)\bin\Debug\net6.0\C02a_TipoDeDatos(fecha).dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C02a_TipoDeDatos(fecha)\bin\Debug\net6.0\C02a_TipoDeDatos(fecha).pdb
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C02a_TipoDeDatos(fecha)\obj\Debug\net6.0\C02a_TipoDeDatos(fecha).csproj.AssemblyReference.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C02a_TipoDeDatos(fecha)\obj\Debug\net6.0\C02a_TipoDeDatos(fecha).GeneratedMSBuildEditorConfig.editorconfig
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C02a_TipoDeDatos(fecha)\obj\Debug\net6.0\C02a_TipoDeDatos(fecha).AssemblyInfoInputs.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C02a_TipoDeDatos(fecha)\obj\Debug\net6.0\C02a_TipoDeDatos(fecha).AssemblyInfo.cs
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C02a_TipoDeDatos(fecha)\obj\Debug\net6.0\C02a_TipoDeDatos(fecha).csproj.CoreCompileInputs.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C02a_TipoDeDatos(fecha)\obj\Debug\net6.0\C02a_TipoDeDatos(fecha).dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C02a_TipoDeDatos(fecha)\obj\Debug\net6.0\refint\C02a_TipoDeDatos(fecha).dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C02a_TipoDeDatos(fecha)\obj\Debug\net6.0\C02a_TipoDeDatos(fecha).pdb
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C02a_TipoDeDatos(fecha)\obj\Debug\net6.0\C02a_TipoDeDatos(fecha).genruntimeconfig.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C02a_TipoDeDatos(fecha)\obj\Debug\net6.0\ref\C02a_TipoDeDatos(fecha).dll

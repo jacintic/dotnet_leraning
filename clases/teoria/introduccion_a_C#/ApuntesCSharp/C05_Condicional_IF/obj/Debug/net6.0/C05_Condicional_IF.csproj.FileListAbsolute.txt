@@ -1,0 +1,15 @@
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C05_Condicional_IF\bin\Debug\net6.0\C05_Condicional_IF.exe
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C05_Condicional_IF\bin\Debug\net6.0\C05_Condicional_IF.deps.json
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C05_Condicional_IF\bin\Debug\net6.0\C05_Condicional_IF.runtimeconfig.json
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C05_Condicional_IF\bin\Debug\net6.0\C05_Condicional_IF.dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C05_Condicional_IF\bin\Debug\net6.0\C05_Condicional_IF.pdb
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C05_Condicional_IF\obj\Debug\net6.0\C05_Condicional_IF.csproj.AssemblyReference.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C05_Condicional_IF\obj\Debug\net6.0\C05_Condicional_IF.GeneratedMSBuildEditorConfig.editorconfig
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C05_Condicional_IF\obj\Debug\net6.0\C05_Condicional_IF.AssemblyInfoInputs.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C05_Condicional_IF\obj\Debug\net6.0\C05_Condicional_IF.AssemblyInfo.cs
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C05_Condicional_IF\obj\Debug\net6.0\C05_Condicional_IF.csproj.CoreCompileInputs.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C05_Condicional_IF\obj\Debug\net6.0\C05_Condicional_IF.dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C05_Condicional_IF\obj\Debug\net6.0\refint\C05_Condicional_IF.dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C05_Condicional_IF\obj\Debug\net6.0\C05_Condicional_IF.pdb
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C05_Condicional_IF\obj\Debug\net6.0\C05_Condicional_IF.genruntimeconfig.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C05_Condicional_IF\obj\Debug\net6.0\ref\C05_Condicional_IF.dll

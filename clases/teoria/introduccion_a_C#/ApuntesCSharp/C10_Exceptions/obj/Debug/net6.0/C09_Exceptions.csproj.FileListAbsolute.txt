@@ -1,0 +1,15 @@
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C10_Exceptions\bin\Debug\net6.0\C09_Exceptions.exe
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C10_Exceptions\bin\Debug\net6.0\C09_Exceptions.deps.json
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C10_Exceptions\bin\Debug\net6.0\C09_Exceptions.runtimeconfig.json
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C10_Exceptions\bin\Debug\net6.0\C09_Exceptions.dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C10_Exceptions\bin\Debug\net6.0\C09_Exceptions.pdb
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C10_Exceptions\obj\Debug\net6.0\C09_Exceptions.csproj.AssemblyReference.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C10_Exceptions\obj\Debug\net6.0\C09_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C10_Exceptions\obj\Debug\net6.0\C09_Exceptions.AssemblyInfoInputs.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C10_Exceptions\obj\Debug\net6.0\C09_Exceptions.AssemblyInfo.cs
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C10_Exceptions\obj\Debug\net6.0\C09_Exceptions.csproj.CoreCompileInputs.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C10_Exceptions\obj\Debug\net6.0\C09_Exceptions.dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C10_Exceptions\obj\Debug\net6.0\refint\C09_Exceptions.dll
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C10_Exceptions\obj\Debug\net6.0\C09_Exceptions.pdb
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C10_Exceptions\obj\Debug\net6.0\C09_Exceptions.genruntimeconfig.cache
+D:\jacint_clases\.net\dotnet_leraning\clases\teoria\introduccion_a_C#\ApuntesCSharp\C10_Exceptions\obj\Debug\net6.0\ref\C09_Exceptions.dll
